@@ -29,11 +29,11 @@ una copia bit a bit da un dispositivo di memoria di massa a un altro.
 |![AthenaOS](https://user-images.githubusercontent.com/98583912/200109607-762c159e-6eed-4f77-8296-e1f88e0b9c5e.gif)|[**AthenaOS**](https://lnkd.in/dp_XPTH6)| - CyberSecurity + Digital Forensics|
 |![Forlex](https://user-images.githubusercontent.com/98583912/200109947-147dfdd4-ab95-4f45-9dbd-d66a1d9971d4.gif)|[**Forlex**](https://lnkd.in/dtXW7yv2)| - CyberSecurity + Digital Forensics|
 |![Paladin](https://user-images.githubusercontent.com/98583912/200123619-f4cdb6c2-e11a-4985-9fe1-91d5f5937242.gif)|[**PALADIN EDGE**](https://sumuri.com/product/paladin-edge-64-bit/)| - Digital Forensics|
-|![470x382-SIFT_logo](https://user-images.githubusercontent.com/98583912/206209414-4a81dcdb-8951-4a30-9c1b-f060ed9cac3c.png)|[**SANS Investigative Forensics Toolkit (sift)**](https://github.com/teamdfir/sift)|- Digital Forensics|
+|![Senzanome](https://user-images.githubusercontent.com/98583912/206285581-1bbd70c4-e006-4dbb-9fd7-adcfb20b5dc6.gif)|[**SANS Investigative Forensics Toolkit (sift)**](https://github.com/teamdfir/sift)|- Digital Forensics|
 
 
 **Windows Forensics**
-||[**WinFE**](https://www.winfe.net/home)|
+|![cropped-winfelogo](https://user-images.githubusercontent.com/98583912/206284577-e3e9c538-4fc8-460b-939d-85e123c67317.gif)|[**Windows Forensic Environment**](https://www.winfe.net/home)|
 | :---: | :---: |
 
 
@@ -46,7 +46,7 @@ una copia bit a bit da un dispositivo di memoria di massa a un altro.
 
 # Software Copia Forense
 
-|[**dc3dd**](https://sourceforge.net/projects/dc3dd/)|[**dcfldd**](https://dcfldd.sourceforge.net/)|[**adulau/dcfldd**](https://github.com/adulau/dcfldd))|[**FTK Imager**](https://accessdata.com/product-download/ftk-imager-version-4-5)|[**Guymager**](https://guymager.sourceforge.io/)|
+|[**dc3dd**](https://sourceforge.net/projects/dc3dd/)|[**dcfldd**](https://dcfldd.sourceforge.net/)|[**adulau/dcfldd**](https://github.com/adulau/dcfldd)|[**FTK Imager**](https://accessdata.com/product-download/ftk-imager-version-4-5)|[**Guymager**](https://guymager.sourceforge.io/)|
 | :---: | :---: | :---: | :---: | :---: |
 |[**GUIDA**]()|[**GUIDA**]()|[**GUIDA**]()|[**GUIDA**]()|[**GUIDA**]()|
 
