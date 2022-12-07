@@ -17,13 +17,24 @@ una copia bit a bit da un dispositivo di memoria di massa a un altro.
 # Distribuzioni
 
 **Distribuzioni Linux**
-|[**SANS Investigative Forensics Toolkit (sift)**](https://github.com/teamdfir/sift)|[**Tsurugi Linux**](https://tsurugi-linux.org/)|
-| :---: | :---: |
+||**Nome**|**Categoria**|
+| :---: | :--- | :--- |
+|![Kali](https://user-images.githubusercontent.com/98583912/200108477-6d161e91-cb9e-4e1e-9090-2a1e0810d5ba.gif)|[**Kali Linux**](https://bit.ly/hj265_kali)| - OSINT + CyberSecurity + Digital Forensics|
+|![PredatorOS](https://user-images.githubusercontent.com/98583912/200109889-a6b0ee85-250f-4064-b18d-89aa36ee4c70.gif)|[**Predator-OS**](https://predator-os.com)| - OSINT + CyberSecurity + Digital Forensics|
+|![Tails](https://user-images.githubusercontent.com/98583912/200109155-101196ac-c93f-4597-a1a7-df77fdb75328.gif)|[**Tails**](https://bit.ly/hj265_tails)| - OSINT + CyberSecurity + Digital Forensics|
+|![PARROT SECURITY OS](https://user-images.githubusercontent.com/98583912/200109210-feb42746-0141-4312-afdb-75783eb8d583.gif)|[**PARROT SECURITY OS**](https://lnkd.in/d4z-SWut)| - OSINT + CyberSecurity + Digital Forensics|
+|![CSI Linux png](https://user-images.githubusercontent.com/98583912/200109366-a0f79a3f-d7c9-420d-9d15-bd788599d394.gif)|[**CSI Linux**](https://lnkd.in/dw5su-Cj)| - OSINT + CyberSecurity|
+|![CAINE](https://user-images.githubusercontent.com/98583912/200109408-7b7a5c59-4c72-46a5-9e34-7e31d94b5e46.gif)|[**CAINE**](https://bit.ly/hj265_caine)| - OSINT + Digital Forensics |
+|![Tsurugi](https://user-images.githubusercontent.com/98583912/200109462-8db925e1-cd4c-4512-9e86-88f9288d0282.gif)|[**Tsurugi Linux**](https://lnkd.in/dat5feg5)| - OSINT + CyberSecurity + Digital Forensics|
+|![AthenaOS](https://user-images.githubusercontent.com/98583912/200109607-762c159e-6eed-4f77-8296-e1f88e0b9c5e.gif)|[**AthenaOS**](https://lnkd.in/dp_XPTH6)| - CyberSecurity + Digital Forensics|
+|![Forlex](https://user-images.githubusercontent.com/98583912/200109947-147dfdd4-ab95-4f45-9dbd-d66a1d9971d4.gif)|[**Forlex**](https://lnkd.in/dtXW7yv2)| - CyberSecurity + Digital Forensics|
+|![Paladin](https://user-images.githubusercontent.com/98583912/200123619-f4cdb6c2-e11a-4985-9fe1-91d5f5937242.gif)|[**PALADIN EDGE**](https://sumuri.com/product/paladin-edge-64-bit/)| - Digital Forensics|
+|![470x382-SIFT_logo](https://user-images.githubusercontent.com/98583912/206209414-4a81dcdb-8951-4a30-9c1b-f060ed9cac3c.png)|[**SANS Investigative Forensics Toolkit (sift)**](https://github.com/teamdfir/sift)|- Digital Forensics|
 
 
 **Windows Forensics**
-|[**WinFE**](https://www.winfe.net/home)|
-| :---: |
+||[**WinFE**](https://www.winfe.net/home)|
+| :---: | :---: |
 
 
 
