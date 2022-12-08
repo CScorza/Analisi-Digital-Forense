@@ -129,5 +129,5 @@ blackhawkintelligence.com
 |[**bit4law.com - Digital Forensics**](https://www.bit4law.com/digital-forensics/)|[**Digital forensics. Guida per i professionisti delle investigazioni informatiche**](https://www.amazon.it/Digital-forensics-Andrea-Ghirardini/dp/8850334257/ref=asc_df_8850334257/?tag=googshopit-21&linkCode=df0&hvadid=499073655259&hvpos=&hvnetw=g&hvrand=18411916083389702633&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=20590&hvtargid=pla-1242806794551&psc=1)|
 |[**DalChecco - Digital Forensics**](https://www.dalchecco.it/formazione/glossario/digital-forensics/)|[**Digital Forensics - Roberto Murenec**](https://www.amazon.it/Digital-forensics-Roberto-Murenec/dp/8835212707/ref=sr_1_4?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3CLCDD7A3HHDF&keywords=digital+forensics&qid=1670484719&s=books&sprefix=digital+forensi%2Cstripbooks%2C545&sr=1-4)|
 |[**ICTSecurityMagazine.com - Digital Forensics nel Processo Penale**](https://www.ictsecuritymagazine.com/pubblicazioni/digital-forensics-nel-processo-penale/)||
-
+|[**Guidelines to Digital Forensics First Responders_V7.pdf**](https://www.interpol.int/content/download/16243/file/Guidelines%20to%20Digital%20Forensics%20First%20Responders_V7.pdf)||
 
