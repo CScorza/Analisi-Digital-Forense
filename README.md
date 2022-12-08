@@ -76,6 +76,11 @@ una copia bit a bit da un dispositivo di memoria di massa a un altro.
 | :---: | :---: | :---: | :---: | 
 |[**GUIDA**](https://www.forensics-matters.com/tag/dc3dd/)|[**GUIDA**](https://blog.zenlab.it/clonazione-di-dispositivi-con-dcfldd/)|[**GUIDA**](https://www.google.it/search?q=ftk+imager+istruzioni&sxsrf=ALiCzsaOiLN1f5DJQXYO8YJTvds1MKCWhg%3A1670482320202&ei=kImRY6P1C9DvkgWgm7jQBw&ved=0ahUKEwij_bHKt-n7AhXQt6QKHaANDnoQ4dUDCA8&uact=5&oq=ftk+imager+istruzioni&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB46CggAEEcQ1gQQsAM6BAgjECc6CAgAEIAEEMsBOgoIABCABBCHAhAUOgUIABCABEoECEEYAEoECEYYAFDBBVi7HmCaIGgBcAB4AIABvgGIAZ0TkgEEMC4xNZgBAKABAcgBB8ABAQ&sclient=gws-wiz-serp#fpstate=ive&vld=cid:86e36094,vid:TkG4JqUcx_U)|[**GUIDA**](https://www.youtube.com/watch?v=aiDNZ4HjSF0)|
 
+**Forensics Acquisition of Websites**
+
+|[**FAW**](https://en.fawproject.com/)|[**httrack**](https://www.httrack.com/)|[**Browser History Capturer**](https://www.foxtonforensics.com/browser-history-capturer/)|[**Chrome Cache View**](http://www.nirsoft.net/utils/chrome_cache_view.html)|
+| :---: | :---: | :---: |
+
 **Software Analisi Forensics**
 ```
 Analisi forense, è la conversione e l'estrazione dei vari dati, 
@@ -87,6 +92,7 @@ rilevando i percorsi, le date, chi vi ha avuto accesso e informazioni varie.
 | :---: | :---: | :---: | :---: | :---: |
 |[**GitHub - IntelMQ**](https://github.com/certtools/intelmq)|[**GitHub - Kuiper**](https://github.com/DFIRKuiper/Kuiper)|[**GitHub - Laika BOSS**](https://github.com/lmco/laikaboss)|[**GitHub - PowerForensics**](https://github.com/Invoke-IR/PowerForensics)|[**GitHub - TAPIR**](https://github.com/tap-ir/tapir)|
 |[**GitHub - The Sleuth Kit**](https://github.com/sleuthkit/sleuthkit)|[**GitHub - Turbinia**](https://github.com/google/turbinia)|[**GitHub - IPED - Indexador e Processador de Evidências Digitais**](https://github.com/sepinf-inc/IPED)|[**GitHub - Wombat Forensics**](https://github.com/pjrinaldi/wombatforensics)|
+|[**nirsoft.net**](http://www.nirsoft.net)|||||
 
 # Recovery Data
 
@@ -122,12 +128,21 @@ blackhawkintelligence.com
 |[**GitHub - inVtero.net**](https://github.com/ShaneK2/inVtero.net)|[**GitHub - KeeFarce**](https://github.com/denandz/KeeFarce)|[**GitHub - MemProcFS**](https://github.com/ufrisk/MemProcFS)|[**GitHub - Rekall**](https://github.com/google/rekall)|[**GitHub - Volatility**](https://github.com/volatilityfoundation/volatility)|[**GitHub - VolUtility**](https://github.com/kevthehermit/VolUtility)|
 | :---: | :---: | :---: | :---: | :---: | :---: |
 
+**Strumenti a Pagamento**
+| :---: | :---: | :---: |
+|[**Cellebrite - UFED Ultimate](https://cellebrite.com/en/ufed-ultimate/)|[**Magnet Forensics**](https://www.magnetforensics.com/)|[**ENCASE Forensic**](https://www.opentext.com/products/encase-forensic)|
+
+
 
 # Risorse e Fonti
+
+**BEST PRATICS**
+| :---: |
+|[**ENISA Digital forensics - Handbook**](https://www.enisa.europa.eu/topics/training-and-exercises/trainings-for-cybersecurity-specialists/online-training-material/documents/digital-forensics-handbook)|[**Basic Guide for First Responders**](https://www.enisa.europa.eu/publications/electronic-evidence-a-basic-guide-for-first-responders/at_download/fullReport)|[**Interpol - Guidelines to Digital Forensics First Responders_V7.pdf**](https://www.interpol.int/content/download/16243/file/Guidelines%20to%20Digital%20Forensics%20First%20Responders_V7.pdf)|
+
 |**Siti Internet**|**Libri**|
 | :---: | :---: |
 |[**bit4law.com - Digital Forensics**](https://www.bit4law.com/digital-forensics/)|[**Digital forensics. Guida per i professionisti delle investigazioni informatiche**](https://www.amazon.it/Digital-forensics-Andrea-Ghirardini/dp/8850334257/ref=asc_df_8850334257/?tag=googshopit-21&linkCode=df0&hvadid=499073655259&hvpos=&hvnetw=g&hvrand=18411916083389702633&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=20590&hvtargid=pla-1242806794551&psc=1)|
 |[**DalChecco - Digital Forensics**](https://www.dalchecco.it/formazione/glossario/digital-forensics/)|[**Digital Forensics - Roberto Murenec**](https://www.amazon.it/Digital-forensics-Roberto-Murenec/dp/8835212707/ref=sr_1_4?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3CLCDD7A3HHDF&keywords=digital+forensics&qid=1670484719&s=books&sprefix=digital+forensi%2Cstripbooks%2C545&sr=1-4)|
 |[**ICTSecurityMagazine.com - Digital Forensics nel Processo Penale**](https://www.ictsecuritymagazine.com/pubblicazioni/digital-forensics-nel-processo-penale/)||
-|[**Guidelines to Digital Forensics First Responders_V7.pdf**](https://www.interpol.int/content/download/16243/file/Guidelines%20to%20Digital%20Forensics%20First%20Responders_V7.pdf)||
-
+|[**Paolo Dal Checco Forensic Acquisition of Websites with Open Source Tools OSDFCON 2021**](https://www.dalchecco.it/wp-content/uploads/2021/12/paolo-dal-checco-forensic-acquisition-of-websites-with-open-source-tools-osdfcon-2021.pdf)||
