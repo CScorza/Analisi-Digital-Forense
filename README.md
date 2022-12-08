@@ -78,8 +78,13 @@ una copia bit a bit da un dispositivo di memoria di massa a un altro.
 
 **Forensics Acquisition of Websites**
 
+![web](https://user-images.githubusercontent.com/98583912/206399031-737161d7-fa88-4d18-8d3f-47e39b3d0be5.gif)
+
 |[**FAW**](https://en.fawproject.com/)|[**httrack**](https://www.httrack.com/)|[**Browser History Capturer**](https://www.foxtonforensics.com/browser-history-capturer/)|[**Chrome Cache View**](http://www.nirsoft.net/utils/chrome_cache_view.html)|
-| :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: |
+
+|[**Guida - Forensic Acquisition of Websites, Webpages and Online Services with Open Source Tools [OSDFCon 2021]**](https://www.youtube.com/watch?v=Ms_aqvnalUU)|
+| :---: |
 
 **Software Analisi Forensics**
 ```
@@ -91,8 +96,8 @@ rilevando i percorsi, le date, chi vi ha avuto accesso e informazioni varie.
 |[**Autopsy**](http://www.sleuthkit.org/autopsy/)|[**GitHub - DFF**](https://github.com/arxsys/dff)|[**GitHub - Dexter**](https://github.com/coinbase/dexter)|[**GitHub - Hash lookup Forensic Analyser**](https://github.com/hashlookup/hashlookup-forensic-analyser)|[**hashlookup**](https://www.circl.lu/services/hashlookup/)|
 | :---: | :---: | :---: | :---: | :---: |
 |[**GitHub - IntelMQ**](https://github.com/certtools/intelmq)|[**GitHub - Kuiper**](https://github.com/DFIRKuiper/Kuiper)|[**GitHub - Laika BOSS**](https://github.com/lmco/laikaboss)|[**GitHub - PowerForensics**](https://github.com/Invoke-IR/PowerForensics)|[**GitHub - TAPIR**](https://github.com/tap-ir/tapir)|
-|[**GitHub - The Sleuth Kit**](https://github.com/sleuthkit/sleuthkit)|[**GitHub - Turbinia**](https://github.com/google/turbinia)|[**GitHub - IPED - Indexador e Processador de Evidências Digitais**](https://github.com/sepinf-inc/IPED)|[**GitHub - Wombat Forensics**](https://github.com/pjrinaldi/wombatforensics)|
-|[**nirsoft.net**](http://www.nirsoft.net)|||||
+|[**GitHub - The Sleuth Kit**](https://github.com/sleuthkit/sleuthkit)|[**GitHub - Turbinia**](https://github.com/google/turbinia)|[**GitHub - IPED - Indexador e Processador de Evidências Digitais**](https://github.com/sepinf-inc/IPED)|[**GitHub - Wombat Forensics**](https://github.com/pjrinaldi/wombatforensics)||
+|[**nirsoft.net**](http://www.nirsoft.net)|[**BENTO**](https://www.tipiloschi.net/Bento-2022.7_public.7z)||||
 
 # Recovery Data
 
@@ -128,17 +133,21 @@ blackhawkintelligence.com
 |[**GitHub - inVtero.net**](https://github.com/ShaneK2/inVtero.net)|[**GitHub - KeeFarce**](https://github.com/denandz/KeeFarce)|[**GitHub - MemProcFS**](https://github.com/ufrisk/MemProcFS)|[**GitHub - Rekall**](https://github.com/google/rekall)|[**GitHub - Volatility**](https://github.com/volatilityfoundation/volatility)|[**GitHub - VolUtility**](https://github.com/kevthehermit/VolUtility)|
 | :---: | :---: | :---: | :---: | :---: | :---: |
 
-**Strumenti a Pagamento**
+# Strumenti a Pagamento
+
+|[**Cellebrite - UFED Ultimate**](https://cellebrite.com/en/ufed-ultimate/)|[**Magnet Forensics**](https://www.magnetforensics.com/)|[**ENCASE Forensic**](https://www.opentext.com/products/encase-forensic)|
 | :---: | :---: | :---: |
-|[**Cellebrite - UFED Ultimate](https://cellebrite.com/en/ufed-ultimate/)|[**Magnet Forensics**](https://www.magnetforensics.com/)|[**ENCASE Forensic**](https://www.opentext.com/products/encase-forensic)|
-
-
 
 # Risorse e Fonti
 
+![Immagine4](https://user-images.githubusercontent.com/98583912/206399938-4697d648-69d6-43d5-9ef3-5b7b5529347c.jpg)
+```
+ECCouncil.org - Forensics Investigation Services Digital Forensics
+```
 **BEST PRATICS**
-| :---: |
+
 |[**ENISA Digital forensics - Handbook**](https://www.enisa.europa.eu/topics/training-and-exercises/trainings-for-cybersecurity-specialists/online-training-material/documents/digital-forensics-handbook)|[**Basic Guide for First Responders**](https://www.enisa.europa.eu/publications/electronic-evidence-a-basic-guide-for-first-responders/at_download/fullReport)|[**Interpol - Guidelines to Digital Forensics First Responders_V7.pdf**](https://www.interpol.int/content/download/16243/file/Guidelines%20to%20Digital%20Forensics%20First%20Responders_V7.pdf)|
+| :---: | :---: | :---: |
 
 |**Siti Internet**|**Libri**|
 | :---: | :---: |
@@ -146,3 +155,4 @@ blackhawkintelligence.com
 |[**DalChecco - Digital Forensics**](https://www.dalchecco.it/formazione/glossario/digital-forensics/)|[**Digital Forensics - Roberto Murenec**](https://www.amazon.it/Digital-forensics-Roberto-Murenec/dp/8835212707/ref=sr_1_4?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3CLCDD7A3HHDF&keywords=digital+forensics&qid=1670484719&s=books&sprefix=digital+forensi%2Cstripbooks%2C545&sr=1-4)|
 |[**ICTSecurityMagazine.com - Digital Forensics nel Processo Penale**](https://www.ictsecuritymagazine.com/pubblicazioni/digital-forensics-nel-processo-penale/)||
 |[**Paolo Dal Checco Forensic Acquisition of Websites with Open Source Tools OSDFCON 2021**](https://www.dalchecco.it/wp-content/uploads/2021/12/paolo-dal-checco-forensic-acquisition-of-websites-with-open-source-tools-osdfcon-2021.pdf)||
+|[**TipiLoschi - REBUS - Guide Varie**](https://www.tipiloschi.net/drupal/)||
