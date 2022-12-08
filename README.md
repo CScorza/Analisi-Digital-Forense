@@ -103,8 +103,9 @@ rilevando i percorsi, le date, chi vi ha avuto accesso e informazioni varie.
 
 ![Immagine7](https://user-images.githubusercontent.com/98583912/206305354-12c8effa-089e-41de-80c7-75c2db0ab9a9.gif)
 
-|[**Cleverfiles**](https://www.cleverfiles.com/data-recovery-software.html)|[**PhotoRec**](https://www.cgsecurity.org/wiki/PhotoRec)|[**R-Studio**](http://www.r-studio.com/)|[**CCleaner - Recuva**](https://www.ccleaner.com/recuva)|[**Recoverit Wondershare**](https://recoverit.wondershare.com/)|[**Professional Data Recovery**](https://prosofteng.squarespace.com/professional-data-recovery)|[**DiskGenius**](https://www.diskgenius.com/)|[**TestDisk**](https://www.cgsecurity.org/wiki/TestDisk)|[**EaseUS Data Recovery**](https://www.easeus.com/)|
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|[**Cleverfiles**](https://www.cleverfiles.com/data-recovery-software.html)|[**PhotoRec**](https://www.cgsecurity.org/wiki/PhotoRec)|[**R-Studio**](http://www.r-studio.com/)|[**CCleaner - Recuva**](https://www.ccleaner.com/recuva)|[**Recoverit Wondershare**](https://recoverit.wondershare.com/)|
+| :---: | :---: | :---: | :---: | :---: |
+|[**Professional Data Recovery**](https://prosofteng.squarespace.com/professional-data-recovery)|[**DiskGenius**](https://www.diskgenius.com/)|[**TestDisk**](https://www.cgsecurity.org/wiki/TestDisk)|[**EaseUS Data Recovery**](https://www.easeus.com/)||
 
 # First Responder
 ```
