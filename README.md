@@ -134,6 +134,14 @@ blackhawkintelligence.com
 |[**GitHub - inVtero.net**](https://github.com/ShaneK2/inVtero.net)|[**GitHub - KeeFarce**](https://github.com/denandz/KeeFarce)|[**GitHub - MemProcFS**](https://github.com/ufrisk/MemProcFS)|[**GitHub - Rekall**](https://github.com/google/rekall)|[**GitHub - Volatility**](https://github.com/volatilityfoundation/volatility)|[**GitHub - VolUtility**](https://github.com/kevthehermit/VolUtility)|
 | :---: | :---: | :---: | :---: | :---: | :---: |
 
+
+**Multi Strumenti**
+
+![USB](https://user-images.githubusercontent.com/98583912/209347033-26aa1553-6b8d-4eb5-9f8c-4dece60ad27d.gif)
+
+|[**Magnetic Forensics - Free Digital Forensics Tools Every Investigator Needs**](https://www.magnetforensics.com/blog/free-digital-forensics-tools-every-investigator-needs/?utm_source=LinkedIn&utm_medium=Organic&utm_campaign=2022_AXIOM_Social)|[**NirSoft**](http://www.nirsoft.net/)|
+| :---: | :---: | 
+
 # Strumenti a Pagamento
 
 |[**Cellebrite - UFED Ultimate**](https://cellebrite.com/en/ufed-ultimate/)|[**Magnet Forensics**](https://www.magnetforensics.com/)|[**ENCASE Forensic**](https://www.opentext.com/products/encase-forensic)|
