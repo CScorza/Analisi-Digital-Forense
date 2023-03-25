@@ -155,8 +155,9 @@ ECCouncil.org - Forensics Investigation Services Digital Forensics
 ```
 **BEST PRATICS**
 
-|[**ENISA Digital forensics - Handbook**](https://www.enisa.europa.eu/topics/training-and-exercises/trainings-for-cybersecurity-specialists/online-training-material/documents/digital-forensics-handbook)|[**Basic Guide for First Responders**](https://www.enisa.europa.eu/publications/electronic-evidence-a-basic-guide-for-first-responders/at_download/fullReport)|[**Interpol - Guidelines to Digital Forensics First Responders_V7.pdf**](https://www.interpol.int/content/download/16243/file/Guidelines%20to%20Digital%20Forensics%20First%20Responders_V7.pdf)|
-| :---: | :---: | :---: |
+||[**ENISA Digital forensics - Handbook**](https://www.enisa.europa.eu/topics/training-and-exercises/trainings-for-cybersecurity-specialists/online-training-material/documents/digital-forensics-handbook)|[**Basic Guide for First Responders**](https://www.enisa.europa.eu/publications/electronic-evidence-a-basic-guide-for-first-responders/at_download/fullReport)|[**Interpol - Guidelines to Digital Forensics First Responders_V7.pdf**](https://www.interpol.int/content/download/16243/file/Guidelines%20to%20Digital%20Forensics%20First%20Responders_V7.pdf)|
+| :---: | :---: | :---: | :---: |
+|**NEWS**|[**CScorza - Best Practices di Digital Forensics.pdf**](https://github.com/CScorza/Analisi-Digital-Forense/files/11068504/CScorza.-.Best.Practices.di.Digital.Forensics.pdf)|||
 
 |**Siti Internet**|**Libri**|**PDF**|
 | :---: | :---: | :---: |
