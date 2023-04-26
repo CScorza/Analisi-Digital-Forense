@@ -106,7 +106,7 @@ rilevando i percorsi, le date, chi vi ha avuto accesso e informazioni varie.
 
 |[**Cleverfiles**](https://www.cleverfiles.com/data-recovery-software.html)|[**PhotoRec**](https://www.cgsecurity.org/wiki/PhotoRec)|[**R-Studio**](http://www.r-studio.com/)|[**CCleaner - Recuva**](https://www.ccleaner.com/recuva)|[**Recoverit Wondershare**](https://recoverit.wondershare.com/)|
 | :---: | :---: | :---: | :---: | :---: |
-|[**Professional Data Recovery**](https://prosofteng.squarespace.com/professional-data-recovery)|[**DiskGenius**](https://www.diskgenius.com/)|[**TestDisk**](https://www.cgsecurity.org/wiki/TestDisk)|[**EaseUS Data Recovery**](https://www.easeus.com/)||
+|[**Professional Data Recovery**](https://www.prosofteng.com/professional-data-recovery)|[**DiskGenius**](https://www.diskgenius.com/)|[**TestDisk**](https://www.cgsecurity.org/wiki/TestDisk)|[**EaseUS Data Recovery**](https://www.easeus.com/)||
 
 # First Responder
 ```
