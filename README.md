@@ -22,8 +22,8 @@ cybersecurity360.it
 **Distribuzioni Linux**
 ||**Nome**|**Categoria**|
 | :---: | :--- | :--- |
-|![PredatorOS](https://user-images.githubusercontent.com/98583912/200109889-a6b0ee85-250f-4064-b18d-89aa36ee4c70.gif)|[**Predator-OS**](https://predator-os.com)|**CyberSecurity + Digital Forensics**|
-|![Tails](https://user-images.githubusercontent.com/98583912/200109155-101196ac-c93f-4597-a1a7-df77fdb75328.gif)|[**Tails**](https://bit.ly/hj265_tails)|**CyberSecurity + Digital Forensics**|
+|![PredatorOS](https://user-images.githubusercontent.com/98583912/200109889-a6b0ee85-250f-4064-b18d-89aa36ee4c70.gif)|[**Predator-OS**](https://predator-os.ir/)|**CyberSecurity + Digital Forensics**|
+|![Tails](https://user-images.githubusercontent.com/98583912/200109155-101196ac-c93f-4597-a1a7-df77fdb75328.gif)|[**Tails**](https://tails.ybti.net/tails/stable/tails-amd64-6.0/)|**CyberSecurity + Digital Forensics**|
 |![PARROT SECURITY OS](https://user-images.githubusercontent.com/98583912/200109210-feb42746-0141-4312-afdb-75783eb8d583.gif)|[**PARROT SECURITY OS**](https://lnkd.in/d4z-SWut)|**CyberSecurity + Digital Forensics**|
 |![CSI Linux png](https://user-images.githubusercontent.com/98583912/200109366-a0f79a3f-d7c9-420d-9d15-bd788599d394.gif)|[**CSI Linux**](https://lnkd.in/dw5su-Cj)|**CyberSecurity**|
 |![CAINE](https://user-images.githubusercontent.com/98583912/200109408-7b7a5c59-4c72-46a5-9e34-7e31d94b5e46.gif)|[**CAINE**](https://bit.ly/hj265_caine)|**Digital Forensics**|
