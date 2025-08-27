@@ -100,6 +100,20 @@ rilevando i percorsi, le date, chi vi ha avuto accesso e informazioni varie.
 |[**GitHub - The Sleuth Kit**](https://github.com/sleuthkit/sleuthkit)|[**GitHub - Turbinia**](https://github.com/google/turbinia)|[**GitHub - IPED - Indexador e Processador de Evidências Digitais**](https://github.com/sepinf-inc/IPED)|[**GitHub - Wombat Forensics**](https://github.com/pjrinaldi/wombatforensics)||
 |[**nirsoft.net**](http://www.nirsoft.net)|[**BENTO**](https://www.tipiloschi.net/Bento-2022.7_public.7z)||||
 
+## Tools Free di [**DBX Forensics**](https://www.dbxforensics.com/Tools/Download) 
+
+<img width="153" height="60" alt="image" src="https://github.com/user-attachments/assets/4988b2f7-01db-4774-ad20-74353241f986" />
+
+| Nome | Descrizione |
+|---|---|
+| [**dbxScreenshot**](https://www.dbxforensics.com/Tools/File/1) | Strumento leggero per l’acquisizione forense di screenshot su PC. Ogni cattura include metadati dettagliati (timestamp UTC, hash MD5/SHA1/SHA-256, info macchina, utente attivo, identificativo del dispositivo) per preservare integrità e tracciabilità della prova.<br><br> *Lightweight tool for forensic acquisition of PC screenshots. Each capture includes detailed metadata (UTC timestamp, MD5/SHA1/SHA-256 hashes, machine info, active user, device ID) to preserve integrity and traceability of evidence.* |
+| [**dbxCsvViewer**](https://www.dbxforensics.com/Tools/File/2) | Visualizzatore CSV orientato alla forensic analysis: supporta delimitatori personalizzati (anche multi-carattere), file a larghezza fissa e campi tra doppi apici; offre caricamento rapido, ordinamento per colonne ed export diretto in Excel (.xlsx).<br><br> *CSV viewer for forensic analysis: supports custom delimiters (including multi-character), fixed-width files, and double-quoted fields; provides fast loading, column sorting, and direct Excel (.xlsx) export.* |
+| [**dbxMetadata**](https://www.dbxforensics.com/Tools/File/4) | Analisi approfondita di file e metadati: mostra sia le informazioni del file system (nome, dimensione, attributi, date C/M/A) sia i metadati interni di diversi formati di file.<br><br> *In-depth analysis of files and metadata: displays both file system information (name, size, attributes, C/M/A dates) and internal metadata of various file formats.* |
+| [**dbxSeqCheck**]()  - Work in progress | Verifica forense di sequenze numeriche per individuare irregolarità (mancanze, duplicati, ordinamenti errati) in elenchi di interi progressivi. *Attualmente in sviluppo.*<br><br> *Forensic verification of numeric sequences to identify irregularities (missing values, duplicates, incorrect ordering) in lists of sequential integers.* *Currently in development.* |
+| [**dbxHashFile**](https://www.dbxforensics.com/Tools/File/3) | Calcolo rapido di hash crittografici per file e cartelle (CRC32, MD5, SHA-1, SHA-256, SHA-512, SHA3-256) tramite interfaccia semplice, anche su più elementi in parallelo.<br><br> *Fast calculation of cryptographic hashes for files and folders (CRC32, MD5, SHA-1, SHA-256, SHA-512, SHA3-256) through a simple interface, also on multiple items in parallel.* |
+
+
+
 # Recovery Data
 
 ![Immagine7](https://user-images.githubusercontent.com/98583912/206305354-12c8effa-089e-41de-80c7-75c2db0ab9a9.gif)
