@@ -57,8 +57,8 @@ info-savvy.com
 ![2022-12-07 22_05_13-6552C5C7-58E7-4A6D-B1D9-D8EB156604D7 jpeg (1200×630)](https://user-images.githubusercontent.com/98583912/206296153-28029f27-f1ca-41bf-9253-3f23ee4282ad.jpg)
 
 
-|[**GitHub - APFS Fuse**](https://github.com/sgan81/apfs-fuse)|[**GitHub - mac_apt (macOS Artifact Parsing Tool)**](https://github.com/ydkhatri/mac_apt)|[**GitHub - MacLocationsScraper**](https://github.com/mac4n6/Mac-Locations-Scraper)|[**GitHub - macMRUParser**](https://github.com/mac4n6/macMRU-Parser)|[**GitHub - OSXAuditor**](https://github.com/jipegit/OSXAuditor)|[**GitHub - OSX Collect**](https://github.com/Yelp/osxcollector)|
-| :---: | :---: | :---: | :---: | :---: | :---: | 
+|[**GitHub - APFS Fuse**](https://github.com/sgan81/apfs-fuse)|[**GitHub - mac_apt (macOS Artifact Parsing Tool)**](https://github.com/ydkhatri/mac_apt)|[**GitHub - MacLocationsScraper**](https://github.com/mac4n6/Mac-Locations-Scraper)|[**GitHub - macMRUParser**](https://github.com/mac4n6/macMRU-Parser)|[**GitHub - OSXAuditor**](https://github.com/jipegit/OSXAuditor)|[**GitHub - OSX Collect**](https://github.com/Yelp/osxcollector)|[**Fuji - Forensic Unattended Juicy Imaging**](https://github.com/Lazza/Fuji)|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | 
 
 
 
